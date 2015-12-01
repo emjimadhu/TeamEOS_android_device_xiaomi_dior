@@ -15,5 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/eos_dior.mk \
     $(LOCAL_DIR)/device.mk
